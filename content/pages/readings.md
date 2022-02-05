@@ -22,21 +22,249 @@ O'Connor, Jennifer, Eleanor Lee, Francis Rubinstein, et al. [_Tips for Daylighti
 
 Tanizaki, J. _In Praise of Shadows_. Leete's Island Books, 1977. ISBN: 9780918172020.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction to Daylighting |  {{< br >}}{{< br >}} \[R\] Chapter 1: Introduction {{< br >}}{{< br >}} \[R\] Chapter 2: Designing for Daylighting {{< br >}}{{< br >}}  |
-| 2 | The Source | \[R\] Chapter 3: The Source |
-| 3 | The Sensor | \[R\] Chapter 4: The Sensor |
-| 4 | Photometry and HDR Workshop |  {{< br >}}{{< br >}} Inanici, M. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to High Dynamic Range Photography (PDF - 84.1MB)](http://www.radiance-online.org/community/workshops/2009-boston-ma/Presentations/inanici_HDR-2009.pdf)." Radiance Workshop Slides, 2009. {{< br >}}{{< br >}} ———. "[Evaluation of High Dynamic Range Photography as a Luminance Data Acquisition System](http://dx.doi.org/ 10.1191/1365782806li164oa)." _Lighting Research and Technology_ 38, no. 2 (2006): 123–34. {{< br >}}{{< br >}}  |
-| 5 | Massing Studies | \[R\] Chapter 5: Massing Studies |
-| 6 | Where is the Sun? |  {{< br >}}{{< br >}} \[R\] Chapter 6: Where is the Sun? {{< br >}}{{< br >}} Duffie, John A., and William A. Beckman. _Solar Engineering of Thermal Processes_. Wiley, 2006. ISBN: 9780471698678. {{< br >}}{{< br >}}  |
-| 7 | Designing with the Sun | \[R\] Chapter 7: Static Shading |
-| 8 | Physical Model Building | \[R\] Chapter 8: Physical Models |
-| 9 | Daylight Simulations |  {{< br >}}{{< br >}} Reinhart, C. F. "Simulation-based Daylight Performance Predictions." In _Building Performance Simulation for Design and Operation_. Edited by J. Hensen and R. Lamberts. Taylor & Francis, 2011, pp. 235–53. ISBN: 9780415474146. {{< br >}}{{< br >}} Building Technologies Department of Lawrence Berkeley Laboratory. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Radiance Reference Manual_ (PDF)](http://radsite.lbl.gov/radiance/refer/refman.pdf)." 2011. {{< br >}}{{< br >}}  |
-| 10 | Light and Matter | No required readings |
-| 11 | Circadian Effects of Light (Lockley) | Lockley, S., and R. Foster. _Sleep: A Very Short Introduction_. Oxford University Press, 2012. ISBN: 9780199587858. |
-| 12 | Daylight Availability |  {{< br >}}{{< br >}} Reinhart, C. F. "Simulation-based Daylight Performance Predictions." In _Building Performance Simulation for Design and Operation_. Edited by J. Hensen and R. Lamberts. Taylor & Francis, 2011, pp. 253–76. ISBN: 9780415474146. {{< br >}}{{< br >}} Reinhart, C. F., and D. Weissman. "[The daylit area – Correlating architectural student assessments with current and emerging daylight availability metrics](http://dx.doi.org/doi:10.1016/j.buildenv.2011.10.024)." _Building and Environment_ 50 (April 2012): 155–162. {{< br >}}{{< br >}}  |
-| 13 | Visual Comfort & Occupant Behavior |  {{< br >}}{{< br >}} Wienold, J., and J. Christoffersen. "[Evaluation methods and development of a new glare prediction model for daylight environments with the use of CCD cameras](http://dx.doi.org/10.1016/j.enbuild.2006.03.017)." _Energy and Buildings_ 38, no. 7 (2006): 743–57. {{< br >}}{{< br >}} Reinhart, C. F., and J. Wienold. "[Lightswitch-2002: a model for manual and automated control of electric lighting and blinds](http://dx.doi.org/10.1016/j.solener.2004.04.003)." _Solar Energy_ 77, no. 1 (2004): 15–28. {{< br >}}{{< br >}}  |
-| 14 | Envelope Design | No required readings |
-| 15 | Electric Lighting | No required readings |
-| 16 | Integrating Electric Lighting & Energy | Reinhart, C. F., and J. Wienold. "[The daylighting dashboard – A simulation-based design analysis for daylit spaces](http://dx.doi.org/10.1016/j.buildenv.2010.08.001)." _Building and Environment_ 46, no. 2 (2011): 386–96.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Daylighting
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[R\] Chapter 1: Introduction
+
+\[R\] Chapter 2: Designing for Daylighting
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Source
+{{< tdclose >}}
+{{< tdopen >}}
+\[R\] Chapter 3: The Source
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Sensor
+{{< tdclose >}}
+{{< tdopen >}}
+\[R\] Chapter 4: The Sensor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Photometry and HDR Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Inanici, M. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to High Dynamic Range Photography (PDF - 84.1MB)](http://www.radiance-online.org/community/workshops/2009-boston-ma/Presentations/inanici_HDR-2009.pdf)." Radiance Workshop Slides, 2009.
+
+———. "[Evaluation of High Dynamic Range Photography as a Luminance Data Acquisition System](http://dx.doi.org/ 10.1191/1365782806li164oa)." _Lighting Research and Technology_ 38, no. 2 (2006): 123–34.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Massing Studies
+{{< tdclose >}}
+{{< tdopen >}}
+\[R\] Chapter 5: Massing Studies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Where is the Sun?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[R\] Chapter 6: Where is the Sun?
+
+Duffie, John A., and William A. Beckman. _Solar Engineering of Thermal Processes_. Wiley, 2006. ISBN: 9780471698678.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Designing with the Sun
+{{< tdclose >}}
+{{< tdopen >}}
+\[R\] Chapter 7: Static Shading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Physical Model Building
+{{< tdclose >}}
+{{< tdopen >}}
+\[R\] Chapter 8: Physical Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Daylight Simulations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reinhart, C. F. "Simulation-based Daylight Performance Predictions." In _Building Performance Simulation for Design and Operation_. Edited by J. Hensen and R. Lamberts. Taylor & Francis, 2011, pp. 235–53. ISBN: 9780415474146.
+
+Building Technologies Department of Lawrence Berkeley Laboratory. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Radiance Reference Manual_ (PDF)](http://radsite.lbl.gov/radiance/refer/refman.pdf)." 2011.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Light and Matter
+{{< tdclose >}}
+{{< tdopen >}}
+No required readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Circadian Effects of Light (Lockley)
+{{< tdclose >}}
+{{< tdopen >}}
+Lockley, S., and R. Foster. _Sleep: A Very Short Introduction_. Oxford University Press, 2012. ISBN: 9780199587858.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Daylight Availability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reinhart, C. F. "Simulation-based Daylight Performance Predictions." In _Building Performance Simulation for Design and Operation_. Edited by J. Hensen and R. Lamberts. Taylor & Francis, 2011, pp. 253–76. ISBN: 9780415474146.
+
+Reinhart, C. F., and D. Weissman. "[The daylit area – Correlating architectural student assessments with current and emerging daylight availability metrics](http://dx.doi.org/doi:10.1016/j.buildenv.2011.10.024)." _Building and Environment_ 50 (April 2012): 155–162.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Visual Comfort & Occupant Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wienold, J., and J. Christoffersen. "[Evaluation methods and development of a new glare prediction model for daylight environments with the use of CCD cameras](http://dx.doi.org/10.1016/j.enbuild.2006.03.017)." _Energy and Buildings_ 38, no. 7 (2006): 743–57.
+
+Reinhart, C. F., and J. Wienold. "[Lightswitch-2002: a model for manual and automated control of electric lighting and blinds](http://dx.doi.org/10.1016/j.solener.2004.04.003)." _Solar Energy_ 77, no. 1 (2004): 15–28.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Envelope Design
+{{< tdclose >}}
+{{< tdopen >}}
+No required readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Electric Lighting
+{{< tdclose >}}
+{{< tdopen >}}
+No required readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating Electric Lighting & Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Reinhart, C. F., and J. Wienold. "[The daylighting dashboard – A simulation-based design analysis for daylit spaces](http://dx.doi.org/10.1016/j.buildenv.2010.08.001)." _Building and Environment_ 46, no. 2 (2011): 386–96.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

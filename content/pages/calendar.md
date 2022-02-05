@@ -6,29 +6,309 @@ uid: 8ad68169-ba37-c001-3bd4-52841ef6be8a
 
 The calendar below provides information on the course's lecture sessions (L), and student presentation and practicum sessions (P).
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction to Daylighting | Tutorial: Daylight Modeling in Design |
-| L2 | The Source | Homework 1 due |
-| L3 | The Sensor | &nbsp; |
-| L4 | Photometry and HDR Workshop | Tutorial: DIVA Visualizations |
-| L5 | Massing Studies | Homework 2 due |
-| L6 | Where is the Sun? | &nbsp; |
-| L7 | Designing with the Sun | Homework 3 due |
-| L8 | Physical Model Building | Tutorial: Shaderade; DIVA – Radiation Maps; Ecotect Sun Module |
-| L9 | Daylight Simulations | Tutorial: Radiance Simulation Parameters and Material Definitions |
-| L10 | Light and Matter | &nbsp; |
-| P1 | Midterm Student Presentations I | &nbsp; |
-| P2 | Midterm Student Presentations II | &nbsp; |
-| L11 | Circadian Effects of Light (Lockley) | &nbsp; |
-| L12 | Daylight Availability | Homework 4 due |
-| P3 | Heliodon Measurements | &nbsp; |
-| L13 | Visual Comfort & Occupant Behavior | Tutorial: DIVA-Glare |
-| L14 | Envelope Design | Homework 5 due |
-| P4 | Heliodon Student Presentations | &nbsp; |
-| L15 | Electric Lighting | Tutorial: Dialux |
-| P5 | Presentation Group Meetings | &nbsp; |
-| L16 | Integrating Electric Lighting & Energy | Homework 6 due |
-| P6 | Final Student Presentations | &nbsp; |
-| P7 | Daylighting in Practice | &nbsp; |
-| P8 | Field Trip: [Philips Lighting](http://www.usa.lighting.philips.com/) in Burlington, MA |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Daylighting
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial: Daylight Modeling in Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+The Source
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+The Sensor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Photometry and HDR Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial: DIVA Visualizations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Massing Studies
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Where is the Sun?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Designing with the Sun
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Physical Model Building
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial: Shaderade; DIVA – Radiation Maps; Ecotect Sun Module
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Daylight Simulations
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial: Radiance Simulation Parameters and Material Definitions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Light and Matter
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P1
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Student Presentations I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P2
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Student Presentations II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Circadian Effects of Light (Lockley)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Daylight Availability
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P3
+{{< tdclose >}}
+{{< tdopen >}}
+Heliodon Measurements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Visual Comfort & Occupant Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial: DIVA-Glare
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Envelope Design
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P4
+{{< tdclose >}}
+{{< tdopen >}}
+Heliodon Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Electric Lighting
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial: Dialux
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P5
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation Group Meetings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating Electric Lighting & Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P6
+{{< tdclose >}}
+{{< tdopen >}}
+Final Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P7
+{{< tdclose >}}
+{{< tdopen >}}
+Daylighting in Practice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P8
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip: [Philips Lighting](http://www.usa.lighting.philips.com/) in Burlington, MA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
