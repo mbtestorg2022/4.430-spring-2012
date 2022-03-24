@@ -90,7 +90,7 @@ Photometry and HDR Workshop
 {{< tdopen >}}
 
 
-Inanici, M. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to High Dynamic Range Photography (PDF - 84.1MB)](http://www.radiance-online.org/community/workshops/2009-boston-ma/Presentations/inanici_HDR-2009.pdf)." Radiance Workshop Slides, 2009.
+Inanici, M. "[Introduction to High Dynamic Range Photography (PDF - 84.1MB)](http://www.radiance-online.org/community/workshops/2009-boston-ma/Presentations/inanici_HDR-2009.pdf)." Radiance Workshop Slides, 2009.
 
 ———. "[Evaluation of High Dynamic Range Photography as a Luminance Data Acquisition System](http://dx.doi.org/ 10.1191/1365782806li164oa)." _Lighting Research and Technology_ 38, no. 2 (2006): 123–34.
 
@@ -164,7 +164,7 @@ Daylight Simulations
 
 Reinhart, C. F. "Simulation-based Daylight Performance Predictions." In _Building Performance Simulation for Design and Operation_. Edited by J. Hensen and R. Lamberts. Taylor & Francis, 2011, pp. 235–53. ISBN: 9780415474146.
 
-Building Technologies Department of Lawrence Berkeley Laboratory. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Radiance Reference Manual_ (PDF)](http://radsite.lbl.gov/radiance/refer/refman.pdf)." 2011.
+Building Technologies Department of Lawrence Berkeley Laboratory. "[_Radiance Reference Manual_ (PDF)](http://radsite.lbl.gov/radiance/refer/refman.pdf)." 2011.
 
 
 {{< tdclose >}}
