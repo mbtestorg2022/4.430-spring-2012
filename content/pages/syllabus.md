@@ -28,7 +28,7 @@ At the end of this course students will be able to:
 Prerequisites
 -------------
 
-An introductory course on building science (for example, [_4.461 Architectural Building Systems_](/courses/4-461-building-technology-i-materials-and-construction-fall-2004/pages/index.htm)), and a working knowledge of [Rhinoceros®](http://www.rhino3d.com/) are required for this course.
+An introductory course on building science (for example, [_4.461 Architectural Building Systems_](/courses/4-461-building-technology-i-materials-and-construction-fall-2004)), and a working knowledge of [Rhinoceros®](http://www.rhino3d.com/) are required for this course.
 
 Required Materials and Resources
 --------------------------------
